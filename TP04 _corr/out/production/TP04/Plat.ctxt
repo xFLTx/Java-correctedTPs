@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Plat
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Plat\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nom\ typePlat
+comment1.target=Plat(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Plat\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=o
+comment3.target=boolean\ equals(java.lang.Object)
+numComments=4
